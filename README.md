@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me : hongyu.li@telefonica.com
+- 📫 How to reach me : hongyu99@gmail.com
 
 <!---
 hongyuo2/hongyuo2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
